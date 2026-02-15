@@ -4,8 +4,9 @@
 
 ### Thank you for your interest in contributing!
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/akramkhan/business-metrics-playbook/pulls)
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-blue.svg)](https://github.com/akramkhan/business-metrics-playbook/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/coder-akram-khan/business-metrics-playbook/pulls)
+[![Contributors](https://img.shields.io/github/contributors/coder-akram-khan/business-metrics-playbook.svg)](https://github.com/coder-akram-khan/business-metrics-playbook/graphs/contributors)
+
 
 We welcome contributions from the data analytics community to make this resource even better!
 
