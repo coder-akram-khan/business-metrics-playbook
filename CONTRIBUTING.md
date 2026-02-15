@@ -486,7 +486,7 @@ We value all contributors!
 - Share ideas
 - Connect with community
 
-[Join Discussions →](https://github.com/akramkhan/business-metrics-mastery/discussions)
+[Join Discussions →](https://github.com/coder-akram-khan/business-metrics-playbook/discussions)
 
 </td>
 <td width="50%">
