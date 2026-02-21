@@ -39,7 +39,7 @@
 + Think beyond dashboards
 ```
 
-### 💡 Almost every stakeholder question boils down to::
+### 💡 Almost every stakeholder question boils down to:
 
 | # | Question |
 |---|----------|
@@ -751,4 +751,5 @@ Building strategic, metric-driven intelligence systems.
 *© 2026 Akram Khan. All Rights Reserved.*
 
 </div>
+
 
