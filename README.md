@@ -671,6 +671,26 @@ Narratives for leadership
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+- 📝 Add new metrics for different industries
+- 🐛 Report issues or inaccuracies
+- 💡 Suggest improvements
+- 📖 Share real-world examples
+- 🌍 Add case studies
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+
 <div align="right">
 
 [⬆️ Back to Top](#-business-metrics-mastery-for-data-analysts)
@@ -718,6 +738,7 @@ Building strategic, metric-driven intelligence systems.
 *© 2026 Akram Khan. All Rights Reserved.*
 
 </div>
+
 
 
 
