@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🎯 Why This Repository Exists
 
@@ -49,7 +49,7 @@
 
 > 📖 This repository is a **structured playbook** to master business metrics from **foundation to investor-level understanding**.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 ## 👥 Who This Is For
 
@@ -58,7 +58,7 @@
 - Professionals who want to move from reporting to strategic thinking  
 - Anyone who wants to speak executive language confidently  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 ## 📚 Table of Contents
 
@@ -77,7 +77,7 @@
 - [🗺️ Learning Roadmap](#️-13-learning-roadmap)
 - [💭 Final Philosophy](#-final-philosophy)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 ## 🧠 1. Core Foundations
 
@@ -129,7 +129,7 @@ A **dimension** adds context to a metric.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -169,7 +169,7 @@ graph TD
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -196,7 +196,7 @@ graph TD
 | 🏦 **Operating Profit** | Revenue – Operating Expenses | Core business profitability |
 | 💰 **Net Profit** | After taxes & interest | Final bottom line |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -233,7 +233,7 @@ Healthy SaaS Benchmark: 3:1 or higher
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -268,7 +268,7 @@ Customers retained / Total customers
 - 🔄 Retention problems
 - 📢 Campaign effectiveness
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -303,7 +303,7 @@ Customers retained / Total customers
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -327,7 +327,7 @@ Customers retained / Total customers
 | 🔄 **Repeat Purchase Rate** | Customer loyalty | LTV growth |
 | 💹 **Contribution Margin** | Discount strategy impact | Profitability |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -364,7 +364,7 @@ Customers retained / Total customers
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -388,7 +388,7 @@ Customers retained / Total customers
 | **Stock Turnover** | 🔄 | Operational efficiency |
 | **Shrinkage Rate** | ⚠️ | Loss prevention |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -436,7 +436,7 @@ def interview_ready():
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -479,7 +479,7 @@ Unit Economics = Contribution Margin per Customer – CAC
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -536,7 +536,7 @@ Unit Economics = Contribution Margin per Customer – CAC
 - ✅ How metrics are narrated
 - ✅ How strategy connects to numbers
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -627,7 +627,7 @@ graph LR
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="right">
 
@@ -669,7 +669,7 @@ Narratives for leadership
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <!--
 ### 🔄 The Transformation
 
@@ -732,7 +732,7 @@ Building strategic, metric-driven intelligence systems.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 <div align="center">
 
@@ -746,8 +746,9 @@ Building strategic, metric-driven intelligence systems.
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 
 *© 2026 Akram Khan. All Rights Reserved.*
 
 </div>
+
