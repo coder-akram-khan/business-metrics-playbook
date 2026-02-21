@@ -670,40 +670,6 @@ Narratives for leadership
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
-<!--
-### 🔄 The Transformation
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### ❌ Before
-
-```
-"Here's the dashboard."
-```
-
-</td>
-<td align="center" width="50%">
-
-### ✅ After
-
-```
-"Here's what's happening,
-why it's happening,
-and what we should do next."
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
--->
 
 <div align="right">
 
@@ -752,5 +718,6 @@ Building strategic, metric-driven intelligence systems.
 *© 2026 Akram Khan. All Rights Reserved.*
 
 </div>
+
 
 
